@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PokemonApp</string>
+
+    <!-- Pokemon List Screen -->
+    <string name="pokemon_logo_description">Pokemon Logo</string>
+    <string name="search_bar_hint">Search...</string>
+    <string name="search_bar_empty_hint"></string>
+    <string name="pokemon_image_description">Pokemon list image</string>
+
+    <!-- Pokemon Detail Screen -->
+    <string name="arrow_back_description">Arrow back</string>
+    <string name="pokemon_stats_title">Pokemon stats</string>
+
+</resources>
